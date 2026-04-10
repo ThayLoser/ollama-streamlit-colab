@@ -131,5 +131,5 @@ This project was developed for the **Tư duy tính toán** (Computational Thinki
 ---
 
 <p align="center">
-  Made with 💜 using Google Colab & Ollama
+  “It’s the end of the day, but it feels like dawn, and a new beginning. It comes to me that both twilight periods are, in fact, symmetrical events on opposite sides of midnight, a cycle of endless creation and destruction, an <strong>Ouroboros</strong>.” <br>― <em>Florian Armas, The Shamans at the End of Time</em> ―
 </p>
